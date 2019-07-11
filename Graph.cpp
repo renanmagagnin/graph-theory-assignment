@@ -64,6 +64,7 @@ vector<int> shortestPaths(Graph graph) {
     return distances;
 }
 
+
 void printGraph(Graph graph) {
     int i, j;
     

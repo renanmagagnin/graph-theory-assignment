@@ -14,10 +14,17 @@
 
 using namespace std;
 
+/**
+ Definition of a Node/Vertice in the Graph.
+ */
 typedef struct Node {
     int weight;
 } Node;
 
+
+/**
+ Definition of a Graph, the vector of node sit 
+ */
 typedef struct Graph {
     vector<Node> nodes;
     vector<vector<int> > adjacencyMatrix;
