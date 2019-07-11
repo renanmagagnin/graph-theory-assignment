@@ -7,8 +7,8 @@
 //
 
 #include <vector>
-#include "Graph.hpp"
-#include "InputHandler.hpp"
+#include "Data Types/Graph.hpp"
+#include "Modules/InputHandler.hpp"
 
 using namespace std;
 

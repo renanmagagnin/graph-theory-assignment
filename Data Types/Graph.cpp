@@ -12,7 +12,6 @@
 #include <algorithm>
 #include <limits.h>
 
-
 vector<int> shortestPaths(Graph graph) {
     
     int i, j;

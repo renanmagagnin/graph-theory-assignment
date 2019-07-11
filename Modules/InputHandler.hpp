@@ -14,7 +14,7 @@
 #include <iostream>
 #include <sstream>
 
-#include "Graph.hpp"
+#include "../Data Types/Graph.hpp"
 
 void receiveFromInput(Graph *graph, vector<int> *destinationIndexes);
 
